@@ -1,6 +1,5 @@
-<?php include_once $_SERVER ['DOCUMENT_ROOT'] . '/web-assets/tpl/app_header.php';
-      include_once $_SERVER ['DOCUMENT_ROOT'] . '/web-assets/tpl/app_nav.php';
-?>
+<?php include_once $_SERVER ['DOCUMENT_ROOT'] . '/event-planner/event_header.php' ;
+      include_once $_SERVER ['DOCUMENT_ROOT'] . '/event-planner/event_nav.php' ;?>
 
   <div class="container-fluid p-5">
   	<div class="jumbotron bg-primary">
@@ -33,4 +32,4 @@
 </div>
 </div>
 </div>
-<?php include_once $_SERVER ['DOCUMENT_ROOT'] . '/web-assets/tpl/app_footer.php'; ?>
+<?php include_once $_SERVER ['DOCUMENT_ROOT'] . '/event-planner/event_footer.php'; ?>
