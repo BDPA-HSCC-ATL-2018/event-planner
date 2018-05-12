@@ -29,7 +29,7 @@
 </form>
 </div>
 <div class="card-footer">
-  <center><a class="card-text py-1 text-light" href="/event_plan/event_login.php"><small>Already have an account? Login</small></a></center>
+  <center><a class="card-text py-1 text-light" href="/event-planner/event_login.php"><small>Already have an account? Login</small></a></center>
 </div>
 </div>
 </div>
