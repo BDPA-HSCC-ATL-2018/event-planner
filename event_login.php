@@ -1,6 +1,5 @@
-<?php include_once $_SERVER ['DOCUMENT_ROOT'] . '/web-assets/tpl/app_header.php' ;
-      include_once $_SERVER ['DOCUMENT_ROOT'] . '/web-assets/tpl/app_nav.php' ;
-?>
+<?php include_once $_SERVER ['DOCUMENT_ROOT'] . '/event-planner/event_header.php' ;
+      include_once $_SERVER ['DOCUMENT_ROOT'] . '/event-planner/event_nav.php' ;?>
 <div class="jumbotron">
 <div class="card text-center text-white bg-primary w-60">
   <div class="card-header"> Event Planner </div>
@@ -22,4 +21,4 @@
   </div>
 </div>
 </div>
-<?php include_once $_SERVER ['DOCUMENT_ROOT'] . '/web-assets/tpl/app_footer.php' ; ?>
+<?php include_once $_SERVER ['DOCUMENT_ROOT'] . '/event-planner/event_footer.php' ; ?>
