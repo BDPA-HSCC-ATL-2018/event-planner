@@ -2,7 +2,7 @@
       include_once $_SERVER ['DOCUMENT_ROOT'] . '/web-assets/tpl/app_nav.php' ;
 ?>
 <div class="jumbotron">
-<div class="card text-center text-white bg-warning w-60">
+<div class="card text-center text-white bg-primary w-60">
   <div class="card-header"> Event Planner </div>
     <div class="card-body">
     <form class="container-fluid">
@@ -18,7 +18,7 @@
         <button type="submit" class="btn btn-outline-light">Log In</button>
       </div>
     </form>
-    <div class="card-footer"><a href="/event_plan/event_signup.php" class="card-text py-1 text-light">Don't have an account? Sign Up</a></div>
+    <div class="card-footer"><a href="/event-planner/event_signup.php" class="card-text py-1 text-light">Don't have an account? Sign Up</a></div>
   </div>
 </div>
 </div>
